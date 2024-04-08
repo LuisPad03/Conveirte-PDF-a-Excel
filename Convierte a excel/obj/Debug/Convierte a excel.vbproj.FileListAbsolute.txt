@@ -1,0 +1,75 @@
+C:\Users\luisp\source\repos\Convierte a excel\Convierte a excel\obj\Debug\Interop.Scripting.dll
+C:\Users\luisp\source\repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.vbproj.ResolveComReference.cache
+C:\Users\luisp\source\repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte_a_excel.Form1.resources
+C:\Users\luisp\source\repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte_a_excel.Resources.resources
+C:\Users\luisp\source\repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.vbproj.GenerateResource.cache
+C:\Users\luisp\source\repos\Convierte a excel\Convierte a excel\bin\Debug\Convierte a excel.exe.config
+C:\Users\luisp\source\repos\Convierte a excel\Convierte a excel\bin\Debug\Convierte a excel.exe
+C:\Users\luisp\source\repos\Convierte a excel\Convierte a excel\bin\Debug\Convierte a excel.pdb
+C:\Users\luisp\source\repos\Convierte a excel\Convierte a excel\bin\Debug\Convierte a excel.xml
+C:\Users\luisp\source\repos\Convierte a excel\Convierte a excel\bin\Debug\Microsoft.Office.Interop.InfoPath.SemiTrust.dll
+C:\Users\luisp\source\repos\Convierte a excel\Convierte a excel\bin\Debug\Microsoft.mshtml.dll
+C:\Users\luisp\source\repos\Convierte a excel\Convierte a excel\bin\Debug\Microsoft.Office.InfoPath.Permission.dll
+C:\Users\luisp\source\repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.vbproj.CopyComplete
+C:\Users\luisp\source\repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.exe
+C:\Users\luisp\source\repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.xml
+C:\Users\luisp\source\repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.pdb
+C:\Users\luisp\source\repos\Convierte a excel\Convierte a excel\bin\Debug\Convierte a excel.exe.manifest
+C:\Users\luisp\source\repos\Convierte a excel\Convierte a excel\bin\Debug\Convierte a excel.application
+C:\Users\luisp\source\repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.exe.manifest
+C:\Users\luisp\source\repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.application
+C:\Users\luisp\source\repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.vbprojAssemblyReference.cache
+C:\Users\luisp\Downloads\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.vbproj.AssemblyReference.cache
+C:\Users\luisp\Downloads\Convierte a excel\Convierte a excel\obj\Debug\Interop.Scripting.dll
+C:\Users\luisp\Downloads\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.vbproj.ResolveComReference.cache
+C:\Users\luisp\Downloads\Convierte a excel\Convierte a excel\obj\Debug\Convierte_a_excel.Form1.resources
+C:\Users\luisp\Downloads\Convierte a excel\Convierte a excel\obj\Debug\Convierte_a_excel.Resources.resources
+C:\Users\luisp\Downloads\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.vbproj.GenerateResource.cache
+C:\Users\luisp\Downloads\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.vbproj.CoreCompileInputs.cache
+C:\Users\luisp\Downloads\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.exe
+C:\Users\luisp\Downloads\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.xml
+C:\Users\luisp\Downloads\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.pdb
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.vbproj.AssemblyReference.cache
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\obj\Debug\Interop.Scripting.dll
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.vbproj.ResolveComReference.cache
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\obj\Debug\Convierte_a_excel.Form1.resources
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\obj\Debug\Convierte_a_excel.Resources.resources
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.vbproj.GenerateResource.cache
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.vbproj.CoreCompileInputs.cache
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.exe
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.xml
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.pdb
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\bin\Debug\Convierte a excel.exe.config
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\bin\Debug\Convierte a excel.exe.manifest
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\bin\Debug\Convierte a excel.application
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\bin\Debug\Convierte a excel.exe
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\bin\Debug\Convierte a excel.pdb
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\bin\Debug\Convierte a excel.xml
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\bin\Debug\Microsoft.Office.Interop.InfoPath.SemiTrust.dll
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\bin\Debug\Microsoft.mshtml.dll
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\bin\Debug\Microsoft.Office.InfoPath.Permission.dll
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.exe.manifest
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.application
+D:\proyectos\c#\escritorio\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.vbproj.CopyComplete
+E:\Source\Repos\Convierte a excel\Convierte a excel\bin\Debug\Convierte a excel.exe.config
+E:\Source\Repos\Convierte a excel\Convierte a excel\bin\Debug\Convierte a excel.exe.manifest
+E:\Source\Repos\Convierte a excel\Convierte a excel\bin\Debug\Convierte a excel.application
+E:\Source\Repos\Convierte a excel\Convierte a excel\bin\Debug\Convierte a excel.exe
+E:\Source\Repos\Convierte a excel\Convierte a excel\bin\Debug\Convierte a excel.pdb
+E:\Source\Repos\Convierte a excel\Convierte a excel\bin\Debug\Convierte a excel.xml
+E:\Source\Repos\Convierte a excel\Convierte a excel\bin\Debug\Microsoft.Office.Interop.InfoPath.SemiTrust.dll
+E:\Source\Repos\Convierte a excel\Convierte a excel\bin\Debug\Microsoft.mshtml.dll
+E:\Source\Repos\Convierte a excel\Convierte a excel\bin\Debug\Microsoft.Office.InfoPath.Permission.dll
+E:\Source\Repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.vbproj.AssemblyReference.cache
+E:\Source\Repos\Convierte a excel\Convierte a excel\obj\Debug\Interop.Scripting.dll
+E:\Source\Repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.vbproj.ResolveComReference.cache
+E:\Source\Repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte_a_excel.Form1.resources
+E:\Source\Repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte_a_excel.Resources.resources
+E:\Source\Repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.vbproj.GenerateResource.cache
+E:\Source\Repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.vbproj.CoreCompileInputs.cache
+E:\Source\Repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.exe.manifest
+E:\Source\Repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.application
+E:\Source\Repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.exe
+E:\Source\Repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.xml
+E:\Source\Repos\Convierte a excel\Convierte a excel\obj\Debug\Convierte a excel.pdb
+E:\Source\Repos\Convierte a excel\Convierte a excel\obj\Debug\Conviert.1505C1AA.Up2Date

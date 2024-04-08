@@ -1,0 +1,12 @@
+E:\Source\Repos\Convierte a excel\pdftoexcel\obj\Debug\pdftoexcel.csproj.AssemblyReference.cache
+E:\Source\Repos\Convierte a excel\pdftoexcel\obj\Debug\pdftoexcel.csproj.CoreCompileInputs.cache
+E:\Source\Repos\Convierte a excel\pdftoexcel\bin\Debug\pdftoexcel.exe.config
+E:\Source\Repos\Convierte a excel\pdftoexcel\bin\Debug\pdftoexcel.exe
+E:\Source\Repos\Convierte a excel\pdftoexcel\bin\Debug\pdftoexcel.pdb
+E:\Source\Repos\Convierte a excel\pdftoexcel\bin\Debug\Convierte a excel.exe
+E:\Source\Repos\Convierte a excel\pdftoexcel\bin\Debug\Convierte a excel.pdb
+E:\Source\Repos\Convierte a excel\pdftoexcel\bin\Debug\Convierte a excel.xml
+E:\Source\Repos\Convierte a excel\pdftoexcel\bin\Debug\Convierte a excel.exe.config
+E:\Source\Repos\Convierte a excel\pdftoexcel\obj\Debug\pdftoexcel.csproj.CopyComplete
+E:\Source\Repos\Convierte a excel\pdftoexcel\obj\Debug\pdftoexcel.exe
+E:\Source\Repos\Convierte a excel\pdftoexcel\obj\Debug\pdftoexcel.pdb
